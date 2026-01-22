@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Bella Sicilia - AWS S3 Deployment Script
-# Domain: bellasicilia.quadratic-digital.com
+# Domain: bellasiciliawhitehall.com
 # Usage: ./deploy-aws.sh [cloudfront-distribution-id]
 
 set -e
@@ -60,7 +60,7 @@ fi
 echo ""
 echo "✅ Deployment complete!"
 echo "🌐 S3 URL: https://$BUCKET_NAME.s3.amazonaws.com/index.html"
-echo "🌐 Live Site: https://bellasicilia.quadratic-digital.com"
+echo "🌐 Live Site: https://bellasiciliawhitehall.com"
 if [ ! -z "$CLOUDFRONT_ID" ]; then
     echo "⚡ CloudFront cache invalidated - changes will propagate in 1-2 minutes"
 else

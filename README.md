@@ -28,7 +28,7 @@ Authentic Sicilian pizza and Italian food website for Bella Sicilia in Whitehall
 
 ## 🌐 Live URL
 
-**Production**: https://bellasicilia.quadratic-digital.com
+**Production**: https://bellasiciliawhitehall.com
 
 ## 📁 Project Structure
 
