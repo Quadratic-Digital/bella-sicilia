@@ -2,6 +2,8 @@
 
 Authentic Sicilian pizza and Italian food website for Bella Sicilia in Whitehall, MD.
 
+**Repository**: https://github.com/Quadratic-Digital/bella-sicilia
+
 ## 🚀 Quick Deploy to AWS
 
 ### First Time Setup
