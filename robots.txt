@@ -1,0 +1,13 @@
+# robots.txt for Bella Sicilia Pizza & Subs
+
+User-agent: *
+Allow: /
+Disallow: /script.js
+Disallow: /.git/
+Disallow: /.claude/
+
+# Sitemap location
+Sitemap: https://bellasiciliawhitehall.com/sitemap.xml
+
+# Crawl-delay for better server performance
+Crawl-delay: 1
